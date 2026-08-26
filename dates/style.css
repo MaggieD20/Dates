@@ -1,0 +1,37 @@
+body{
+  display: flex;
+  background: linear-gradient(17deg, #ffffdb 0%, #bf8cfd 66%);
+
+}
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    background: linear-gradient(15deg, #91f4ff 0%, #ffffff 99%);
+    padding: 2vh;
+    border-radius: 10px ;
+    border: 1px solid;
+    border-color:#a8eff7de;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.reponse{
+    alignment-baseline: central;
+    background-color: #f7caf46e;
+    width: 50%;
+    height: 30%;
+    border-radius: 10px ;
+}
+h3{
+}
